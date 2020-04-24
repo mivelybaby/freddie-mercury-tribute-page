@@ -1,0 +1,36 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    }
+
+header{
+    background:url(freddiebg.png) no-repeat center fixed;
+    background-size:cover;
+    height:70em;
+    }
+
+#title{
+    padding-top:250px;
+    padding-left:50px;
+    }
+
+img{
+    display:block;
+    max-width:100%;
+    height:auto;
+    }
+
+#tribute-info {
+    padding-left:20%;
+    padding-right:20%;
+    }
+
+#img-caption{
+    text-align: center;
+    font-size: 15px;
+    }
+
+footer{
+    text-align: center;
+    font-size:10px;
+    padding-top:100px;
+    }
